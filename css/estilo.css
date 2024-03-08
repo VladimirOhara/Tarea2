@@ -1,0 +1,130 @@
+#principal
+{
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja1
+{
+    background-color: aqua;
+    display: flex;
+    width: 150px;
+    height: 300px;
+    margin: 10px;
+}
+
+#caja12
+{
+    background-color: red;
+    flex-wrap: wrap;
+    position: absolute;
+    display: block;
+    top: 80px;
+    left: 40px;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+#caja123
+{
+    background-color: red;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 115px;
+    left: 40px;
+    width: 100px;
+    height: 30px;
+    display: block;
+    margin: 5px;
+}
+
+#caja124
+{
+    background-color: red;
+    flex-wrap: wrap;
+    position: absolute;   
+    display: block;
+    top: 150px;
+    left: 40px;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+.caja11
+{
+    background-color: red;
+    flex-wrap: wrap;
+    position: relative;
+    left: 40px;
+    width: 120px;
+    height: 50px;
+    margin: 5px;
+}
+.cajacolor
+{
+    background-color: red;
+    flex-wrap: wrap;
+    position: relative;
+    top: 170px;
+    right: 40px;
+    width: 100px;
+    height: 50px;
+    margin: 5px;
+}
+#caja2
+{
+    background-color: red;
+    position: relative;
+    top: 50px;
+    left: 40px;
+    width: 100px;
+    height: 30px;
+}
+#caja3
+{
+    background-color: red;
+    position: relative;
+    top: 90px;
+    right: 35px;
+    width: 100px;
+    height: 30px;
+
+}
+#caja4
+{
+    background-color: red;
+    position: relative;
+    top: 130px;
+    right: 35px;
+    width: 100px;
+    height: 30px;
+}
+#caja5
+{
+    background-color: red;
+    position: relative;
+    top: 170px;
+    right: 35px;
+    width: 100px;
+    height: 30px;
+}
+#caja6
+{
+    background-color: red;
+    position: relative;
+    top: 210px;
+    right: 35px;
+    width: 100px;
+    height: 30px;
+}
+.cajafinal
+{
+    background-color: red;
+    flex-wrap: wrap;
+    position: relative;
+    left: 5px;
+    width: 35px;
+    height: 50px;
+    margin: 5px;
+}
